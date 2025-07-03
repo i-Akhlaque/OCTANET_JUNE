@@ -1,5 +1,5 @@
 
-# 🌿 Mistique – Smart Aromatic Diffuser
+# 🌿 Magicana – Smart Aromatic Diffuser
 
 **Mistique** is a beautifully designed landing page for a smart aromatic diffuser brand. Built with modern HTML and CSS, the layout highlights features, fragrance collections, and contact details in a clean, aesthetic way.
 
